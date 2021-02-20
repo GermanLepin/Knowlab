@@ -1,1 +1,1 @@
-web: gunicorn  project_WebSite.wsgi --log-file -
+web: gunicorn  knowlab.wsgi --log-file -
